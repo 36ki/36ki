@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @36ki (miruki) and you can call me 'Milk'
+- 👋 Hi, I’m 'Milk'
 - 👀 I’m interested in changing career to Software engineer
 - 🌱 I’m currently learning Python, C, Java, and another related things
 - 📫 How to reach me ... contact me through <a href="https://www.linkedin.com/in/theerada-sirisumthum/">LinkedIn</a>
